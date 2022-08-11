@@ -5,3 +5,6 @@ data/*.csv
 
 # ignore .csv files in root/ directory
 *.csv
+
+# ignore .log files
+*.log
