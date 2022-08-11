@@ -1,0 +1,7 @@
+# comments
+
+# ignore all .csv files in the data/ directory
+data/*.csv
+
+# ignore .csv files in root/ directory
+*.csv
