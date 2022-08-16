@@ -8,3 +8,7 @@ data/*.csv
 
 # ignore .log files
 *.log
+
+# ignore .DS_Store files
+*.DS_Store
+data/*.DS_Store
